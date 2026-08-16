@@ -1,5 +1,5 @@
 {
-  "version": "0.11.0",
+  "version": "0.12.0",
   "description": "A modular workbench for building deterministic, repeatable workflows that have models in them — agents, wiring, context, gears and pipelines, set by hand or by the orchestrator. Local-first, no telemetry.",
   "homepage": "https://orkcom-tech.github.io/cogitorium/",
   "license": "Apache-2.0",
@@ -7,13 +7,13 @@
   "depends": "contextverse/contextd",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/orkcom-tech/cogitorium/releases/download/v0.11.0/cogitorium_0.11.0_windows_amd64.zip",
-      "hash": "93383d8df11ef0dfc04689e905e3794858c1f665574004f47956a939d2b49a9f",
+      "url": "https://github.com/orkcom-tech/cogitorium/releases/download/v0.12.0/cogitorium_0.12.0_windows_amd64.zip",
+      "hash": "9f387dbdbecbcd7e2942afb6df5b55fd66c2e5e0863154be26b5e8efc7538909",
       "bin": "cogitorium.exe"
     },
     "arm64": {
-      "url": "https://github.com/orkcom-tech/cogitorium/releases/download/v0.11.0/cogitorium_0.11.0_windows_arm64.zip",
-      "hash": "e2a7937f06e6e0001fc9fa4bd50a5775a21cd596d06c0b70dd8a0690b4103262",
+      "url": "https://github.com/orkcom-tech/cogitorium/releases/download/v0.12.0/cogitorium_0.12.0_windows_arm64.zip",
+      "hash": "8bec516d014d98d7ef219176f4b491994c24307ccd550d9de6a32ed9c6403bf4",
       "bin": "cogitorium.exe"
     }
   },
